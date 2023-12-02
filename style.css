@@ -1,0 +1,65 @@
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    font: 15px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#texto01{
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font: 20px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#name{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#id{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#email{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#date{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#career{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#button{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    size: 20px;
+}
